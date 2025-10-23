@@ -1,0 +1,49 @@
+{
+  "name": "2.2",
+  "revision": "30",
+  "enabled": "true",
+  "status": "supported",
+  "description": "IBM Object Storage Plugin version 2.2.x",
+  "tags": [
+    {
+      "name": "provider",
+      "value": "IBM"
+    },
+    {
+      "name": "volume-type",
+      "value": "object"
+    },
+    {
+      "name": "provider-logo",
+      "value": "logo/ibm-object-storage-plugin.svg"
+    },
+    {
+      "name": "offering-name",
+      "value": "ibm-object-storage-plugin"
+    },
+    {
+      "name": "offering-type",
+      "value": "non-sds"
+    },
+    {
+      "name": "provider-url",
+      "value": "https://cloud.ibm.com/docs/openshift?topic=openshift-storage_cos_apps"
+    },
+    {
+      "name": "support-url",
+      "value": "https://www.ibm.com/support/home/"
+    },
+    {
+      "name": "support-msg",
+      "value": "For support contact IBM"
+    },
+    {
+      "name": "supported-envs",
+      "value": "IBM"
+    },
+    {
+      "name": "supported-ocp-versions",
+      "value": "4.14, 4.15, 4.16, 4.17, 4.18"
+    }
+  ]
+}
